@@ -9,11 +9,19 @@
     },
 
     {
-      "title":"cera",
-      "price":"$100",
+      "title":"Polvo textura",
+      "price":"$120",
       "description":"Cera para cabello color blanco, marca nisson",
       "rating":"3",
-      "thumbnail":"https://raw.githubusercontent.com/OctavioOz/Barberia_imagen_app_flutter/refs/heads/main/cera%7C.jpg"
+      "thumbnail":"https://raw.githubusercontent.com/OctavioOz/Barberia_imagen_app_flutter/refs/heads/main/textura.jpg"
+    },
+
+    {
+      "title":"Spait Fijador",
+      "price":"$250",
+      "description":"Cera para cabello color blanco, marca nisson",
+      "rating":"3",
+      "thumbnail":"https://raw.githubusercontent.com/OctavioOz/Barberia_imagen_app_flutter/refs/heads/main/fijador.jpg"
     }
   ]
 }
